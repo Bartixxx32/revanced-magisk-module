@@ -8,6 +8,7 @@ build-mindetach-module = true
 # you can use rvmm-config-gen to generate a config
 
 [YouTube]
+enabled = true
 build-mode = "both"
 excluded-patches = ""
 included-patches = ""
@@ -26,18 +27,17 @@ patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 arch = "both"
 
 [YouTube-Extended]
+enabled = true
 build-mode = "both"
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [TikTok]

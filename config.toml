@@ -9,6 +9,7 @@ build-mindetach-module = true
 
 [YouTube]
 enabled = true
+excluded-patches = "'Theme'"
 build-mode = "both"
 excluded-patches = ""
 included-patches = ""
@@ -32,6 +33,7 @@ arch = "both"
 
 [YouTube-Extended]
 enabled = true
+excluded-patches = "'Theme'"
 build-mode = "both"
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"

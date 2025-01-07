@@ -21,8 +21,3 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 arch = "both"
 build-mode = "both"
 excluded-patches = "'Theme'"
-
-[Lightroom]
-apkmirror-dlurl = "https://apkmirror.com/apk/adobe/lightroom/"
-arch = "both"
-build-mode = "both"

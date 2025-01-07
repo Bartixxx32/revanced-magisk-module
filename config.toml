@@ -14,6 +14,7 @@ build-mode = "both"
 [Tiktok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 arch = "both"
+version = "32.5.3"
 build-mode = "both"
 
 [YouTube]

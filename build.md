@@ -1,7 +1,5 @@
 Music (arm64-v8a): 7.29.52  
 Music (arm-v7a): 7.29.52  
-Tiktok (arm64-v8a): 37.0.4  
-Tiktok (arm-v7a): 37.0.4  
 YouTube (arm64-v8a): 19.47.53  
 YouTube (arm-v7a): 19.47.53  
 
@@ -11,5 +9,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.9.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.9.0)  
+Patches: ReVanced/patches-5.10.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.10.0)  
